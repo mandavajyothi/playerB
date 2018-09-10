@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-class Prifix_sum_array
+class Prifix_sum_Array
 {
 public static void main(String args[])
 {
