@@ -1,6 +1,6 @@
 import java.io.*; 
 import java.util.*;
-class String_prime { 
+class String_prime{ 
       
   
     static boolean isPrimeString(String str) 
